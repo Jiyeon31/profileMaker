@@ -33,8 +33,7 @@
   
   ## Tests
   
-  __tests__
-  ---
+  in __tests__ folder
   
   ## Questions?
   <img src="https://avatars.githubusercontent.com/u/94870473?v=4" alt="Jiyeon31" width="30%" height="30%" />

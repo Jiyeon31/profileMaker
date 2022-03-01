@@ -35,6 +35,9 @@
   
   in __tests__ folder
   
+  +Workingthorough video link for passing all 4 tests
+  https://github.com/Jiyeon31/profileMaker/blob/main/videos/passingTests.mp4
+  
   ## Questions?
   <img src="https://avatars.githubusercontent.com/u/94870473?v=4" alt="Jiyeon31" width="30%" height="30%" />
   
